@@ -1,13 +1,13 @@
 # SpoofDPI
 
-다른 언어로 읽기: [🇬🇧English](https://github.com/xvzc/SpoofDPI), [🇰🇷한국어](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ko.md), [🇨🇳简体中文](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_zh-cn.md), [🇷🇺Русский](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ru.md), [🇯🇵日本語](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ja.md)
+다른 언어로 읽기: [🇬🇧English](https://github.com/gorkemgurel/SpoofDPI), [🇰🇷한국어](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ko.md), [🇨🇳简体中文](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_zh-cn.md), [🇷🇺Русский](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ru.md), [🇯🇵日本語](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ja.md)
 
 DPI(Deep Packet Inspection) 우회를 위해 고안된 소프트웨어  
   
 ![image](https://user-images.githubusercontent.com/45588457/148035986-8b0076cc-fefb-48a1-9939-a8d9ab1d6322.png)
 
 # Installation
-SpoofDPI의 설치과정은 [여기](https://github.com/xvzc/SpoofDPI/blob/main/_docs/INSTALL.md)를 참고바랍니다.
+SpoofDPI의 설치과정은 [여기](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/INSTALL.md)를 참고바랍니다.
 
 
 <a href="https://repology.org/project/spoofdpi/versions">

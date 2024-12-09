@@ -2,13 +2,13 @@ package proxy
 
 import (
 	"context"
-	"github.com/xvzc/SpoofDPI/util"
+	"github.com/gorkemgurel/SpoofDPI/util"
 	"net"
 	"strconv"
 
-	"github.com/xvzc/SpoofDPI/util/log"
+	"github.com/gorkemgurel/SpoofDPI/util/log"
 
-	"github.com/xvzc/SpoofDPI/packet"
+	"github.com/gorkemgurel/SpoofDPI/packet"
 )
 
 const protoHTTP = "HTTP"

@@ -1,13 +1,13 @@
 # SpoofDPI
 
-他の言語で読む: [🇬🇧English](https://github.com/xvzc/SpoofDPI), [🇰🇷한국어](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ko.md), [🇨🇳简体中文](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_zh-cn.md), [🇷🇺Русский](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ru.md), [🇯🇵日本語](https://github.com/xvzc/SpoofDPI/blob/main/_docs/README_ja.md)
+他の言語で読む: [🇬🇧English](https://github.com/gorkemgurel/SpoofDPI), [🇰🇷한국어](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ko.md), [🇨🇳简体中文](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_zh-cn.md), [🇷🇺Русский](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ru.md), [🇯🇵日本語](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/README_ja.md)
 
 **Deep Packet Inspection**をバイパスするために設計されたシンプルで高速なソフトウェア  
   
 ![image](https://user-images.githubusercontent.com/45588457/148035986-8b0076cc-fefb-48a1-9939-a8d9ab1d6322.png)
 
 # Installation
-See the installation guide for SpoofDPI [here](https://github.com/xvzc/SpoofDPI/blob/main/_docs/INSTALL.md).
+See the installation guide for SpoofDPI [here](https://github.com/gorkemgurel/SpoofDPI/blob/main/_docs/INSTALL.md).
 
 
 <a href="https://repology.org/project/spoofdpi/versions">

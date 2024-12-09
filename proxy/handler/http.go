@@ -5,9 +5,9 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/xvzc/SpoofDPI/packet"
-	"github.com/xvzc/SpoofDPI/util"
-	"github.com/xvzc/SpoofDPI/util/log"
+	"github.com/gorkemgurel/SpoofDPI/packet"
+	"github.com/gorkemgurel/SpoofDPI/util"
+	"github.com/gorkemgurel/SpoofDPI/util/log"
 )
 
 type HttpHandler struct {
