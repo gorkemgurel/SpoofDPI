@@ -30,5 +30,3 @@ require (
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
 )
-
-replace github.com/y/original => github.com/x/version latest
